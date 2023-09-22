@@ -1,0 +1,29 @@
+.bg {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bear-bg {
+    background-image: url(https://images7.alphacoders.com/131/1315837.jpeg);
+}
+
+.bg-opacity {
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.spider-man-bg {
+    background-image: url(https://i.pinimg.com/originals/98/f2/4c/98f24ce14802313aaa93d07370ddef35.jpg);
+}
+
+.card {
+    height: 100%;
+}
+
+.card-img-top {
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    height: 100%;
+}
